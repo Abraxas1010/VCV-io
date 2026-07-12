@@ -51,6 +51,7 @@ import VCVio.CryptoFoundations.MacAlg
 import VCVio.CryptoFoundations.MacFromPRF
 import VCVio.CryptoFoundations.MerkleTree.Inductive.Batch.Completeness
 import VCVio.CryptoFoundations.MerkleTree.Inductive.Batch.Defs
+import VCVio.CryptoFoundations.MerkleTree.Inductive.Batch.Sparse
 import VCVio.CryptoFoundations.MerkleTree.Inductive.Batch.ToSingle
 import VCVio.CryptoFoundations.MerkleTree.Inductive.Batch.Uniqueness
 import VCVio.CryptoFoundations.MerkleTree.Inductive.Binding
